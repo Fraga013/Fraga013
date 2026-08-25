@@ -40,19 +40,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fraga013&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fraga013&layout=compact&theme=default&hide_border=true" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fraga013&theme=default&hide_border=true" alt="Sequência de contribuições"/>
-</p>
-
----
-
 ## 🚀 Projetos em destaque
 
 - 🏓 **[Pong](https://github.com/Fraga013/Pong)** — Implementação do clássico jogo Pong em duas linguagens distintas.
